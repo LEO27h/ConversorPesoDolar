@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConversorPesoDolar</string>
+    <string name="$aUSD">ConversorPesoDolar</string>
+    <string name="USDa$">ConversorPesoDolar</string>
+    <string name="Conversion">ConversorPesoDolar</string>
+    <string name="Valor">ConversorPesoDolar</string>
+    <string name="Resultado">ConversorPesoDolar</string>
+</resources>
